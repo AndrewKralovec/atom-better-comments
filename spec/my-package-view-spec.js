@@ -1,6 +1,6 @@
 'use babel';
 
-import MyPackageView from '../lib/my-package-view';
+import MyPackageView from '../lib/better-comments-view';
 
 describe('MyPackageView', () => {
   it('has one valid test', () => {

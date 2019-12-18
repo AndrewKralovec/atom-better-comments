@@ -1,13 +1,13 @@
 {
   "name": "atom-better-comments",
-  "main": "./lib/my-package",
+  "main": "./lib/better-comments",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "my-package:toggle"
+    "atom-workspace": "better-comments:toggle"
   },
-  "repository": "https://github.com/atom/my-package",
+  "repository": "https://github.com/AndrewKralovec/atom-better-comments.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

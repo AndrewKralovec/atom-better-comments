@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle my-package",
-        "command": "my-package:toggle"
+        "label": "Toggle better-comments",
+        "command": "better-comments:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "my-package",
+          "label": "better-comments",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "my-package:toggle"
+              "command": "better-comments:toggle"
             }
           ]
         }
