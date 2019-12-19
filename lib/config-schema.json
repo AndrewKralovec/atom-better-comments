@@ -6,31 +6,25 @@
     "default": [
       {
         "tag": "!",
-        "color": "#FF2D00",
+        "class": "alert-class",
         "strikethrough": false,
         "backgroundColor": "transparent"
       },
       {
         "tag": "?",
-        "color": "#3498DB",
+        "class": "my-line-class",
         "strikethrough": false,
         "backgroundColor": "transparent"
       },
       {
-        "tag": "//",
-        "color": "#474747",
-        "strikethrough": true,
-        "backgroundColor": "transparent"
-      },
-      {
         "tag": "todo",
-        "color": "#FF8C00",
+        "class": "todo-class",
         "strikethrough": false,
         "backgroundColor": "transparent"
       },
       {
         "tag": "*",
-        "color": "#98C379",
+        "class": "highlight-class",
         "strikethrough": false,
         "backgroundColor": "transparent"
       }
