@@ -4,7 +4,7 @@ Atom Better Comments plugin will help you create more human-friendly comments in
 
 ## Usage
 
-Once but is running these are the current commands.
+These are the current commands.
 
 | Name   | Description                     |
 | ------ | ------------------------------- |
