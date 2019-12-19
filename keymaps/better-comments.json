@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "better-comments:toggle"
+    "ctrl-alt-o": "better-comments:format"
   }
 }

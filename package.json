@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "better-comments:toggle"
+    "atom-workspace": "better-comments:format"
   },
   "repository": "https://github.com/AndrewKralovec/atom-better-comments.git",
   "license": "MIT",

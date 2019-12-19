@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle better-comments",
-        "command": "better-comments:toggle"
+        "command": "better-comments:format"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "better-comments:toggle"
+              "command": "better-comments:format"
             }
           ]
         }
