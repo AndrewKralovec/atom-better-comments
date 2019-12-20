@@ -28,7 +28,7 @@
       {
         "tag": "@",
         "decoration": {
-          "color": "highlight-class",
+          "class": "highlight-class",
           "type": "line"
         }
       }
