@@ -16,4 +16,7 @@ These are the current commands.
 - [x] Find & Decorate comments in file.
 - [ ] Decoration on file load.
   - [ ] Change regex on file type.
+- [ ] Language support
+  - [ ] Load language-code on file load.
+  - [x] Ability to change load language.
 - [ ] Testing.

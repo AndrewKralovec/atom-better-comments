@@ -6,27 +6,31 @@
     "default": [
       {
         "tag": "!",
-        "class": "alert-class",
-        "strikethrough": false,
-        "backgroundColor": "transparent"
+        "decoration": {
+          "class": "alert-class",
+          "type": "line"
+        }
       },
       {
         "tag": "?",
-        "class": "my-line-class",
-        "strikethrough": false,
-        "backgroundColor": "transparent"
+        "decoration": {
+          "class": "question-class",
+          "type": "line"
+        }
       },
       {
         "tag": "todo",
-        "class": "todo-class",
-        "strikethrough": false,
-        "backgroundColor": "transparent"
+        "decoration": {
+          "class": "todo-class",
+          "type": "line"
+        }
       },
       {
         "tag": "*",
-        "class": "highlight-class",
-        "strikethrough": false,
-        "backgroundColor": "transparent"
+        "decoration": {
+          "class": "highlight-class",
+          "type": "line"
+        }
       }
     ],
     "order": 1
