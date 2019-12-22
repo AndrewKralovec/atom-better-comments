@@ -18,5 +18,5 @@ These are the current commands.
   - [ ] Change regex on file type.
 - [ ] Language support
   - [ ] Load language-code on file load.
-  - [x] Ability to change load language.
+  - [x] Ability to load language.
 - [ ] Testing.
