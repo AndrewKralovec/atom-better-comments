@@ -13,10 +13,13 @@ These are the current commands.
 ## Todo
 
 - [ ] Fill out readme.
-- [x] Find & Decorate comments in file.
+- [ ] Find & Decorate comments in file.
+  - [x] Fine single line comments.
+  - [x] Fine block line comments.
+  - [ ] Fine document line comments.
 - [ ] Decoration on file load.
-  - [ ] Change regex on file type.
+  - [x] Change regex on language-code.
 - [ ] Language support
   - [ ] Load language-code on file load.
-  - [x] Ability to load language.
+  - [x] Ability to load language-code.
 - [ ] Testing.
