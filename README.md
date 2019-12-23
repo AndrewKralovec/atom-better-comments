@@ -2,7 +2,7 @@
 
 Atom Better Comments plugin will help you create more human-friendly comments in your code. The plugin is influenced by [better-comments](https://github.com/aaron-bond/better-comments), but is not a fork.
 
-![Annotated code](images/better-comments.PNG)
+![Annotated code](images/atom-better-comments.PNG)
 
 ## Usage
 
