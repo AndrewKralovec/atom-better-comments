@@ -7,6 +7,7 @@
   "activationCommands": {
     "atom-workspace": "better-comments:format"
   },
+  "activationHooks": ["language-javascript:grammar-used"],
   "repository": "https://github.com/AndrewKralovec/atom-better-comments.git",
   "license": "MIT",
   "engines": {
